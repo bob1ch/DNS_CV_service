@@ -1,0 +1,15 @@
+service: "service:DNS_CV"
+labels:
+  owner: bentoml-team
+  stage: demo
+include:
+ - "*.py"
+ - "*.pt"
+python:
+  packages:
+    - ultralytics
+    - mlflow
+    - minio
+    - bentoml
+    - pydantic
+    - pillow

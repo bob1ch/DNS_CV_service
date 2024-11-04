@@ -1,0 +1,15 @@
+artifact_uri: /home/bob1ch/Рабочий стол/DNS_тестовое/runs/mlflow/712580020527234651/c563ed22c10246e0b7ba9fb1a0e2d06d/artifacts
+end_time: 1730380393881
+entry_point_name: ''
+experiment_id: '712580020527234651'
+lifecycle_stage: active
+run_id: c563ed22c10246e0b7ba9fb1a0e2d06d
+run_name: train2
+run_uuid: c563ed22c10246e0b7ba9fb1a0e2d06d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730380305668
+status: 3
+tags: []
+user_id: bob1ch

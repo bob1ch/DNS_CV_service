@@ -1,0 +1,9 @@
+jupyterlab
+datasets
+pillow
+matplotlib
+ultralytics
+mlflow
+minio
+bentoml
+pydantic
